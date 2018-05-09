@@ -3801,3 +3801,14 @@
 			}
 
 		}
+
+
+
+/* Card */
+	.card{
+		border-style: solid !important;
+		border-radius: 8px;
+		border: 2px;
+		border-color: #9acff2 !important;
+		padding: 1em;
+	}
